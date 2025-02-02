@@ -76,7 +76,7 @@ var keys = keyMap{
 	),
 	Left: key.NewBinding(
 		key.WithKeys("left", "h"),
-		key.WithHelp("←/l", "move left"),
+		key.WithHelp("←/h", "move left"),
 	),
 	Space: key.NewBinding(
 		key.WithKeys(" "),
